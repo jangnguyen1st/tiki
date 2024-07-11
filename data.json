@@ -1,0 +1,302 @@
+{
+  "categories": [
+    {
+      "name": "Nhà Sách Tiki",
+      "urlImg": "./assets/images/avt-nha-sach-tiki.webp",
+      "slug": "nha-sach-tiki"
+    },
+    {
+      "name": "Nhà cửa & Đời sống",
+      "urlImg": "./assets/images/avt-nha-cua-doi-song.webp",
+      "slug": "nha-cua-doi-song"
+    },
+    {
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "urlImg": "./assets/images/avt-dien-thoai-may-tinh-bang.webp",
+      "slug": "dien-thoai-may-tinh-bang"
+    },
+    {
+      "name": "Đồ Chơi - Mẹ & Bé",
+      "urlImg": "./assets/images/avt-do-choi-me-be.webp",
+      "slug": "do-choi-me-be"
+    },
+    {
+      "name": "Thiết Bị Số - Phụ Kiện Số",
+      "urlImg": "./assets/images/avt-thiet-bi-kts-phu-kien-so.webp",
+      "slug": "thiet-bi-kts-phu-kien-so"
+    },
+    {
+      "name": "Điện Gia Dụng",
+      "urlImg": "./assets/images/avt-dien-gia-dung.webp",
+      "slug": "dien-gia-dung"
+    },
+    {
+      "name": "Làm Đẹp - Sức Khỏe",
+      "urlImg": "./assets/images/avt-lam-dep-suc-khoe.webp",
+      "slug": "lam-dep-suc-khoe"
+    }
+  ],
+  "hotCategories": [
+    {
+      "name": "Top Deals",
+      "urlImg": "https://salt.tikicdn.com/ts/upload/e0/4f/a4/2f79e4d3e8b4a71941fa7da279c994db.png"
+    },
+    {
+      "name": "Nhập khẩu chính hãng",
+      "urlImg": "https://salt.tikicdn.com/ts/upload/18/ec/0b/7f09f2ec4d8d5ceb81b8c043dbc747d0.png"
+    },
+    {
+      "name": "Sản phẩm mới",
+      "urlImg": "https://salt.tikicdn.com/ts/upload/b1/5f/5e/501a9b0ed0c1735d3e3872bad6e587df.png"
+    },
+    {
+      "name": "Nhà Sách Tiki",
+      "urlImg": "https://salt.tikicdn.com/ts/category/ed/20/60/afa9b3b474bf7ad70f10dd6443211d5f.png"
+    },
+    {
+      "name": "Nhà Cửa - Đời Sống",
+      "urlImg": "https://salt.tikicdn.com/ts/category/f6/22/46/7e2185d2cf1bca72d5aeac385a865b2b.png"
+    },
+    {
+      "name": "Điện Gia Dụng",
+      "urlImg": "https://salt.tikicdn.com/ts/category/61/d4/ea/e6ea3ffc1fcde3b6224d2bb691ea16a2.png"
+    },
+    {
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "urlImg": "https://salt.tikicdn.com/ts/category/54/c0/ff/fe98a4afa2d3e5142dc8096addc4e40b.png"
+    },
+    {
+      "name": "Top Deals",
+      "urlImg": "https://salt.tikicdn.com/ts/upload/e0/4f/a4/2f79e4d3e8b4a71941fa7da279c994db.png"
+    },
+    {
+      "name": "Nhập khẩu chính hãng",
+      "urlImg": "https://salt.tikicdn.com/ts/upload/18/ec/0b/7f09f2ec4d8d5ceb81b8c043dbc747d0.png"
+    },
+    {
+      "name": "Sản phẩm mới",
+      "urlImg": "https://salt.tikicdn.com/ts/upload/b1/5f/5e/501a9b0ed0c1735d3e3872bad6e587df.png"
+    },
+    {
+      "name": "Nhà Sách Tiki",
+      "urlImg": "https://salt.tikicdn.com/ts/category/ed/20/60/afa9b3b474bf7ad70f10dd6443211d5f.png"
+    },
+    {
+      "name": "Nhà Cửa - Đời Sống",
+      "urlImg": "https://salt.tikicdn.com/ts/category/f6/22/46/7e2185d2cf1bca72d5aeac385a865b2b.png"
+    },
+    {
+      "name": "Điện Gia Dụng",
+      "urlImg": "https://salt.tikicdn.com/ts/category/61/d4/ea/e6ea3ffc1fcde3b6224d2bb691ea16a2.png"
+    },
+    {
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "urlImg": "https://salt.tikicdn.com/ts/category/54/c0/ff/fe98a4afa2d3e5142dc8096addc4e40b.png"
+    }
+  ],
+  "sliders": [
+    {
+      "urlImg": "https://salt.tikicdn.com/cache/w750/ts/tikimsp/c3/d4/fd/01841aed6e363420710f4272b789dde3.jpg.webp"
+    },
+    {
+      "urlImg": "https://salt.tikicdn.com/cache/w750/ts/tikimsp/f1/e3/2a/7466f80385f441245d920e4a263ec9b8.png.webp"
+    },
+    {
+      "urlImg": "https://salt.tikicdn.com/cache/w750/ts/tikimsp/69/78/3a/68936e5d7c91d18bbc4108aa05960e2f.png.webp"
+    },
+    {
+      "urlImg": "https://salt.tikicdn.com/cache/w750/ts/tikimsp/d5/37/37/9f2bc98a751de6abba8b8a3b160443e4.png.webp"
+    },
+    {
+      "urlImg": "https://salt.tikicdn.com/cache/w750/ts/tikimsp/85/c4/86/dc71b4d1cddcc61d333b96d718101026.jpg.webp"
+    },
+    {
+      "urlImg": "https://salt.tikicdn.com/cache/w750/ts/tikimsp/7a/28/82/5d4790c4890f75cf0e962205c98388ad.png.webp"
+    }
+  ],
+  "products": [
+    {
+      "nameProduct": "TỦ MÁT 2 CÁNH SANAKY 500 LÍT VH-6009HP ĐỒNG (R134A) - HÀNG CHÍNH HÃNG - CHỈ GIAO HCM",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp",
+      "price": 18770000,
+      "currentPrice": 26110000,
+      "nameCategory": "Điện Tử - Điện Lạnh",
+      "detail": "<h3>Thông tin chi tiết</h3>",
+      "timeShip": "Giao thứ 4, 05/06",
+      "urlImgtimeShip": "./assets/images/icon-ship-now.png",
+      "hot": false,
+      "numberSale": 100,
+      "saled": 50,
+      "percentSale": 20,
+      "images": [
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp",
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp"
+      ],
+      "color": [
+        {
+          "nameColor": "white",
+          "img": "https://salt.tikicdn.com/cache/100x100/ts/product/a1/cd/ce/84a16c41ac07ce50d754e44a16ecbd1c.jpg.webp"
+        },
+        {
+          "nameColor": "black",
+          "img": "https://salt.tikicdn.com/cache/100x100/ts/product/aa/24/e0/57914989351786ef9dfe027046ba4626.jpg.webp"
+        }
+      ],
+      "special": "Màn hình Liquid Retina HD LCD 6.1 inch cho hình ảnh chân thực.",
+      "detailInfo": "Băng tần 2G",
+      "status": "Đã mở bán"
+    },
+    {
+      "nameProduct": "Tủ lạnh Panasonic Inverter 234 lít NR-TV261APSV - Diệt khuẩn 99.99% - Tiết kiệm điện - Hàng chính hãng",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/4f/6f/a7/63fa3d71e2027054c5dacd80157f424c.jpg.webp",
+      "price": 8140000,
+      "currentPrice": 9390000,
+      "nameCategory": "Điện Tử - Điện Lạnh",
+      "detail": "<h3>Thông tin chi tiết</h3>",
+      "timeShip": "Giao thứ 4, 05/06",
+      "urlImgtimeShip": "./assets/images/icon-ship-normal.png",
+      "hot": true,
+      "numberSale": 100,
+      "saled": 40,
+      "percentSale": 20,
+      "images": [
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp",
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp"
+      ],
+      "status": "Đã mở bán"
+    },
+    {
+      "nameProduct": "TỦ MÁT 2 CÁNH SANAKY 500 LÍT VH-6009HP ĐỒNG (R134A) - HÀNG CHÍNH HÃNG - CHỈ GIAO HCM",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/c3/ec/38/cf9c678824f8d17abc04c607c01b72c9.jpg.webp",
+      "price": 18770000,
+      "currentPrice": 26110000,
+      "nameCategory": "Nhà cửa - Đời sống",
+      "detail": "<h3>Thông tin chi tiết</h3>",
+      "timeShip": "Giao thứ 4, 05/06",
+      "urlImgtimeShip": "./assets/images/icon-ship-normal.png",
+      "hot": true,
+      "numberSale": 100,
+      "saled": 50,
+      "percentSale": 20,
+      "images": [
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp",
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp"
+      ],
+      "status": "Đã mở bán"
+    },
+    {
+      "nameProduct": "Tủ lạnh Panasonic Inverter 234 lít NR-TV261APSV - Diệt khuẩn 99.99% - Tiết kiệm điện - Hàng chính hãng",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/92/4f/4d/8f2b9f649aed31229b3c371d6b211842.jpg.webp",
+      "price": 8140000,
+      "currentPrice": 9390000,
+      "nameCategory": "Nhà cửa - Đời sống",
+      "detail": "<h3>Thông tin chi tiết</h3>",
+      "timeShip": "Giao thứ 4, 05/06",
+      "urlImgtimeShip": "./assets/images/icon-ship-now.png",
+      "hot": true,
+      "numberSale": 100,
+      "saled": 50,
+      "percentSale": 20,
+      "images": [
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp",
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp"
+      ],
+      "status": "Đã mở bán"
+    },
+    {
+      "nameProduct": "Tủ lạnh Panasonic Inverter 234 lít NR-TV261APSV - Diệt khuẩn 99.99% - Tiết kiệm điện - Hàng chính hãng",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/92/4f/4d/8f2b9f649aed31229b3c371d6b211842.jpg.webp",
+      "price": 8140000,
+      "currentPrice": 9390000,
+      "nameCategory": "Nhà cửa - Đời sống",
+      "detail": "<h3>Thông tin chi tiết</h3>",
+      "timeShip": "Giao thứ 4, 05/06",
+      "urlImgtimeShip": "./assets/images/icon-ship-now.png",
+      "hot": true,
+      "numberSale": 100,
+      "saled": 50,
+      "percentSale": 20,
+      "images": [
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp",
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp"
+      ],
+      "status": "Đã mở bán"
+    },
+    {
+      "nameProduct": "Tủ lạnh Panasonic Inverter 234 lít NR-TV261APSV - Diệt khuẩn 99.99% - Tiết kiệm điện - Hàng chính hãng",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/92/4f/4d/8f2b9f649aed31229b3c371d6b211842.jpg.webp",
+      "price": 8140000,
+      "currentPrice": 9390000,
+      "nameCategory": "Nhà cửa - Đời sống",
+      "detail": "<h3>Thông tin chi tiết</h3>",
+      "timeShip": "Giao thứ 4, 05/06",
+      "urlImgtimeShip": "./assets/images/icon-ship-now.png",
+      "hot": true,
+      "numberSale": 100,
+      "saled": 50,
+      "percentSale": 20,
+      "images": [
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp",
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp"
+      ],
+      "status": "Đã mở bán"
+    },
+    {
+      "nameProduct": "Tủ lạnh Panasonic Inverter 234 lít NR-TV261APSV - Diệt khuẩn 99.99% - Tiết kiệm điện - Hàng chính hãng",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/92/4f/4d/8f2b9f649aed31229b3c371d6b211842.jpg.webp",
+      "price": 8140000,
+      "currentPrice": 9390000,
+      "nameCategory": "Nhà cửa - Đời sống",
+      "detail": "<h3>Thông tin chi tiết</h3>",
+      "timeShip": "Giao thứ 4, 05/06",
+      "urlImgtimeShip": "./assets/images/icon-ship-now.png",
+      "hot": true,
+      "numberSale": 100,
+      "saled": 50,
+      "percentSale": 20,
+      "images": [
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp",
+        "https://salt.tikicdn.com/cache/280x280/ts/product/4b/5b/3c/50fa2296bced5f82f684ebc1019f4e46.jpg.webp"
+      ],
+      "status": "Đã mở bán"
+    }
+  ],
+  "productsFlashsale": [
+    {
+      "percentDiscount": "30",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/5b/34/cd/60f67725903af31c2d6aefbb9114b8ef.jpg.webp",
+      "priceFlashsale": "399000",
+      "status": "Vừa mở bán"
+    },
+    {
+      "percentDiscount": "50",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/c5/1e/16/8139f4e30b7b7ad628793698c27bad83.png.webp",
+      "priceFlashsale": "255000",
+      "status": "Vừa mở bán"
+    },
+    {
+      "percentDiscount": "32",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/17/37/d1/fbf3c86c5df05499cd284b36d0204964.jpg.webp",
+      "priceFlashsale": "199000",
+      "status": "Sắp hết ưu đãi"
+    },
+    {
+      "percentDiscount": "25",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/54/4e/9b7f2687b3c473a9f7d4236b61ded288.jpg.webp",
+      "priceFlashsale": "435000",
+      "status": "Đã mở bán"
+    },
+    {
+      "percentDiscount": "22",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/f0/1e/3aa025eae3c495432733384df535136f.jpg.webp",
+      "priceFlashsale": "369000",
+      "status": "Vừa mở bán"
+    },
+    {
+      "percentDiscount": "32",
+      "urlImg": "https://salt.tikicdn.com/cache/280x280/ts/product/8e/c0/b2/1252c06f04fb5fd8665dd7ebf8ed6f57.jpg.webp",
+      "priceFlashsale": "389000",
+      "status": "Đã mở bán"
+    }
+  ]
+}
