@@ -3,47 +3,62 @@ const param = new URLSearchParams(window.location.search);
 const id = param.get("id");
 const endPoint = `https://data-tiki-e-commerce-website-default-rtdb.firebaseio.com/products/${id}.json`;
 
-// console.log(id);
+// query
 
-// (async () => {
-//   const response = await fetch(endPoint);
+const createOrder = async (phone, nameCustomer, nameProduct) => {
+  try {
+    const order = {
+      phone: phone,
+      nameCustomer: nameCustomer,
+      nameProduct: nameProduct,
+    };
 
-//   const data = await response.json();
-//   console.log(data);
-// })();
-
-const buyProduct = () => {
-  fetch(endPoint)
-    .then((response) => {
-      if (!response.ok) {
-        throw new Error("Failed to fetch");
+    const res = await fetch(
+      "https://data-tiki-e-commerce-website-default-rtdb.firebaseio.com/orders.json",
+      {
+        method: "POST",
+        body: JSON.stringify(order),
       }
-      return response.json();
-    })
-    .then((data) => {
-      const saled = data.saled;
-      const newSaled = saled + 1;
-
-      return fetch(`${endPoint}`, {
-        method: "PATCH",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          saled: newSaled,
-        }),
-      })
-        .then((response) => {
-          if (!response.ok) {
-            throw new Error("Patch to fetch");
-          } else {
-            alert("Mua hàng thành công");
-          }
-        })
-        .catch((error) => {
-          console.error("Error:", error);
-        });
-    });
+    );
+    alert("Đặt hàng thành công");
+  } catch (error) {
+    console.error(error);
+  }
 };
 
-// post , get  , delete , put , patch
+const fetchDataDetail = async () => {
+  try {
+    const content = document.querySelector("#content");
+    const res = await fetch(endPoint);
+    const data = await res.json();
+
+    if (data) {
+      content.innerHTML = `
+      <h2>${data.nameProduct}</h2>
+      <div>
+      <h5>Tên khách hàng</h5>
+      <input id='nameCustomer'/>
+       <h5>Số điện thoại</h5>
+      <input id='phone'/>
+      </div>
+      <button id="buyNow">Mua ngay</button>
+      `;
+    }
+
+    const btnBuyNow = document.querySelector("#buyNow");
+    console.log(btnBuyNow);
+    btnBuyNow.addEventListener("click", () => {
+      createOrder(
+        document.querySelector("#phone").value,
+        document.querySelector("#nameCustomer").value,
+        data.nameProduct
+      );
+    });
+  } catch (error) {
+    console.error(error);
+  }
+};
+
+document.addEventListener("DOMContentLoaded", () => {
+  fetchDataDetail();
+});

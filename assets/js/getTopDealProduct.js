@@ -6,7 +6,6 @@ const getDealProduct1 = async () => {
   const data = await response.json();
   if (data) {
     Object.entries(data).map(([key, item]) => {
-      console.log(key);
       if (item.nameCategory === "Điện Tử - Điện Lạnh") {
         listDealproduct.innerHTML += `                                          
         <div class="wrap-deal-product">
